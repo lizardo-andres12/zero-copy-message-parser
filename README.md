@@ -54,7 +54,6 @@ I created this Python script to generate test data:
 
 ```python
 import struct
-import sys
 
 def generate_test_data(filename):
     messages = [
